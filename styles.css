@@ -128,9 +128,14 @@
 /* ---------------Mobile Menu----------- */
 
 .mobile-menu {
-    padding: 24px 20px 20px 0px;
+    padding: 0px 20px 20px 24px;
     position: absolute;
-    top: 30px;
+    top: 61px;
+    left: 2px;
+    background-color: var(--white);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid var(--hospital-green);
   }
   .mobile-menu a {
     text-decoration: none;
